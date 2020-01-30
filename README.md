@@ -9,7 +9,7 @@ Find the shortest path to `9`. `1` is a walkable place. `0` is a hole, and you m
 Your initial position is `0x0`, the `9` position is `2x3`.
 
 <h2>Simulation</h2>
-To simulate please run the command: python program.py
+To simulate please run in the terminal or prompt command: python program.py
 
 
 <h3>Thanks!!</h3>
